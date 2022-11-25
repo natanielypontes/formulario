@@ -5,3 +5,13 @@ form label{
   display:block;
   font-size:25px;
 }
+
+td {
+  border:3px solid #000000;
+  
+  border-color: cor;
+  text-aling: center;
+  font-size: 25px;
+  backgraund: purple;
+  
+}
